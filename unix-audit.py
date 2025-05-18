@@ -1,9 +1,9 @@
+#!/usr/bin/env python3
 """
 Author: Ethc4 Anonymous
 Legal Disclaimer: The script for education purpose only for increase security not for harmful activity Author not responsable for any illegal Usage
 Description: The tool audit Debian based Linux system for any misconfiguration or vulnerability
 """
-#!/usr/bin/env python3
 import os
 import pwd,grp
 import re
